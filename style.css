@@ -1,0 +1,28 @@
+
+.heading {
+    font-size: 35px;
+    width: fit-content;
+    margin-top: 10px;
+    color: #742727;
+    background-color: #878995;
+}
+
+#status, #number_of_obj {
+    font-size: 25px;
+    font-weight:bold;
+    width: 40%;
+    margin-top: 70px;
+    color: #7A9862;
+    background-color: #8D582C;
+
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+canvas {
+    box-shadow: 20px 20px 15px #7A9862;
+    border-radius: 15px;
+}
